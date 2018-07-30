@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="error_internet_not_available">Интернет не доступен</string>
+    <string name="error_server_not_available">Сервер не доступен</string>
+    <string name="error_server">Серверная ошибка</string>
+    <string name="error">Непредвиденная ошибка</string>
+    <string name="view_address">https://randomuser.me/api/portraits/men/69.jpg</string>
+</resources>
